@@ -1,12 +1,13 @@
 {
-  "name": "cordovarduino",
+  "name": "com.factionfour.usbserial",
   "version": "0.0.8",
   "description": "Cordova plugin to communicate with the android USB serial port",
   "cordova": {
     "id": "com.factionfour.usbserial",
     "platforms": [
       "android",
-      "ubuntu"
+      "ubuntu",
+      "electron"
     ]
   },
   "repository": {
