@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/xseignard/cordovarduino#readme",
   "dependencies": {
-    "usb": "^2.9.0"
+    "usb": "^2.9.0",
+    "serialport": "^11.0.0"
   }
 }
