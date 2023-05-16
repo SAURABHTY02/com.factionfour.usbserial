@@ -2,7 +2,7 @@
   "name": "com.factionfour.usbserial",
   "version": "0.0.8",
   "description": "Cordova plugin to communicate with the android USB serial port",
-  "main":"src/windows/usb.js",
+  "main":"src/windows/usbSerial.js",
   "cordova": {
     "id": "com.factionfour.usbserial",
     "platforms": [
@@ -29,7 +29,6 @@
   },
   "homepage": "https://github.com/xseignard/cordovarduino#readme",
   "dependencies": {
-    "usb": "^2.9.0",
     "serialport": "^11.0.0"
   }
 }
