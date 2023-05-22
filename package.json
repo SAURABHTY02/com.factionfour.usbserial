@@ -2,7 +2,7 @@
   "name": "com.factionfour.usbserial",
   "version": "0.0.8",
   "description": "Cordova plugin to communicate with the android USB serial port",
-  "main":"src/windows/usbSerial.js",
+   "main":"src/windows/usbSerial.js",
   "cordova": {
     "id": "com.factionfour.usbserial",
     "platforms": [
