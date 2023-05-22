@@ -21,7 +21,7 @@ const { serialPortOpen, getDevices, closePort, listenData } = require('com.facti
         console.log(res,"is open port");
     }
 
-4) Get/listen data from COM Port. 
+4) Get/listen data from COM Port. return data in array buffer , decode to get exact data.
 
    listenData(readDataCallBack); 
 
